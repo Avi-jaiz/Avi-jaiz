@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Avi-jaiz
+- 👋 Hi, I'm Avishekh Jaiswal
 - 👀 I’m interested in Web applications development
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... web app developers who used different frameworks
-- 📫 How to reach me ... at j.avishekh2021@gmail.com
+- 🌱 I’m currently learning ... Javascript and React
+- 💞️ I want to switch to my career to a Front End Developer
+- 📫 Mail me: j.avishekh2021@gmail.com
+      linkedIn : https://www.linkedin.com/in/avishek-jaiswal-b4ab31229/
 
 <!---
 Avi-jaiz/Avi-jaiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
