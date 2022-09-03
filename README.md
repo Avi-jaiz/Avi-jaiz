@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Avishekh Jaiswal
+- 👋 Hi, I'm Avishekh Jaiswal,Jr Software Engineer
 - 👀 I’m interested in Web applications development
 - 🌱 I’m currently learning ... Javascript and React
 - 💞️ I want to switch to my career to a Front End Developer
