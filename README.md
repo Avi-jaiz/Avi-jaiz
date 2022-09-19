@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Avishekh Jaiswal,Jr Software Engineer
 - 👀 I’m interested in Web applications development
-- 🌱 I’m currently learning ... Javascript and React
+- 🌱 I’m currently learning ... TypeScript , React and NextJs
 - 💞️ I want to switch to my career to a Front End Developer
 - 📫 Mail me: j.avishekh2021@gmail.com
       linkedIn : https://www.linkedin.com/in/avishek-jaiswal-b4ab31229/
